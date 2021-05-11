@@ -1,0 +1,14 @@
+C:\ald\Musicalog.Api\Musicalog.Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.csprojAssemblyReference.cache
+C:\ald\Musicalog.Api\Musicalog.Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.AssemblyInfoInputs.cache
+C:\ald\Musicalog.Api\Musicalog.Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.AssemblyInfo.cs
+C:\ald\Musicalog.Api\Musicalog.Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.csproj.CoreCompileInputs.cache
+C:\ald\Musicalog.Api\Musicalog.Domain\bin\Debug\netcoreapp3.1\Musicalog.Domain.deps.json
+C:\ald\Musicalog.Api\Musicalog.Domain\bin\Debug\netcoreapp3.1\Musicalog.Domain.dll
+C:\ald\Musicalog.Api\Musicalog.Domain\bin\Debug\netcoreapp3.1\Musicalog.Domain.pdb
+C:\ald\Musicalog.Api\Musicalog.Domain\bin\Debug\netcoreapp3.1\Models.dll
+C:\ald\Musicalog.Api\Musicalog.Domain\bin\Debug\netcoreapp3.1\Musicalog.DataAccess.dll
+C:\ald\Musicalog.Api\Musicalog.Domain\bin\Debug\netcoreapp3.1\Models.pdb
+C:\ald\Musicalog.Api\Musicalog.Domain\bin\Debug\netcoreapp3.1\Musicalog.DataAccess.pdb
+C:\ald\Musicalog.Api\Musicalog.Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.csproj.CopyComplete
+C:\ald\Musicalog.Api\Musicalog.Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.dll
+C:\ald\Musicalog.Api\Musicalog.Domain\obj\Debug\netcoreapp3.1\Musicalog.Domain.pdb

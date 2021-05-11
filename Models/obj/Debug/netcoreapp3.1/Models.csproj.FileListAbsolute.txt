@@ -1,0 +1,9 @@
+C:\ald\Musicalog.Api\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\ald\Musicalog.Api\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\ald\Musicalog.Api\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\ald\Musicalog.Api\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\ald\Musicalog.Api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\ald\Musicalog.Api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\ald\Musicalog.Api\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\ald\Musicalog.Api\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\ald\Musicalog.Api\Models\obj\Debug\netcoreapp3.1\Models.pdb

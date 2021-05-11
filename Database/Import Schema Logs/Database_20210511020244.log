@@ -1,0 +1,86 @@
+11/05/2021 15:02:44	This log contains information about the import schema operation into project 'Database' on computer 'GB-NDGLAP9027' by user 'mshort'.
+11/05/2021 15:02:44	Import of database schema has started.
+11/05/2021 15:02:48	Gathering database credentials
+11/05/2021 15:02:48	Gathering database options
+11/05/2021 15:02:48	Gathering generic database scoped configuration option
+11/05/2021 15:02:48	Gathering users
+11/05/2021 15:02:48	Gathering roles
+11/05/2021 15:02:48	Gathering application roles
+11/05/2021 15:02:48	Gathering role memberships
+11/05/2021 15:02:48	Gathering filegroups
+11/05/2021 15:02:48	Gathering full-text catalogs
+11/05/2021 15:02:48	Gathering assemblies
+11/05/2021 15:02:48	Gathering certificates
+11/05/2021 15:02:48	Gathering asymmetric keys
+11/05/2021 15:02:48	Gathering symmetric keys
+11/05/2021 15:02:48	Gathering encrypted symmetric keys
+11/05/2021 15:02:48	Gathering schemas
+11/05/2021 15:02:48	Gathering XML schema collections
+11/05/2021 15:02:48	Gathering user-defined data types
+11/05/2021 15:02:48	Gathering user-defined types
+11/05/2021 15:02:48	Gathering table types
+11/05/2021 15:02:48	Gathering unique keys for table types
+11/05/2021 15:02:48	Gathering primary keys for table types
+11/05/2021 15:02:48	Gathering indexes for table types
+11/05/2021 15:02:49	Gathering check constraints for table types
+11/05/2021 15:02:49	Gathering default constraints for table types
+11/05/2021 15:02:49	Gathering partition functions
+11/05/2021 15:02:49	Gathering partition schemes
+11/05/2021 15:02:49	Gathering functions
+11/05/2021 15:02:49	Gathering encrypted functions
+11/05/2021 15:02:49	Gathering aggregates
+11/05/2021 15:02:49	Gathering procedures
+11/05/2021 15:02:49	Gathering encrypted procedures
+11/05/2021 15:02:49	Gathering tables
+11/05/2021 15:02:49	Gathering primary keys
+11/05/2021 15:02:49	Gathering unique constraints
+11/05/2021 15:02:49	Gathering foreign keys
+11/05/2021 15:02:49	Gathering default constraints
+11/05/2021 15:02:49	Gathering check constraints
+11/05/2021 15:02:49	Gathering views
+11/05/2021 15:02:49	Gathering encrypted views
+11/05/2021 15:02:49	Gathering indexes
+11/05/2021 15:02:49	Gathering statistics
+11/05/2021 15:02:49	Gathering full-text index stoplists
+11/05/2021 15:02:49	Gathering search property lists
+11/05/2021 15:02:49	Gathering search properties
+11/05/2021 15:02:49	Gathering full-text indexes
+11/05/2021 15:02:49	Gathering column store indexes
+11/05/2021 15:02:49	Gathering spatial indexes
+11/05/2021 15:02:49	Gathering XML indexes
+11/05/2021 15:02:49	Gathering Selective XML indexes
+11/05/2021 15:02:49	Gathering encrypted triggers
+11/05/2021 15:02:49	Gathering triggers
+11/05/2021 15:02:49	Gathering encrypted and clr ddl triggers
+11/05/2021 15:02:49	Gathering ddl triggers
+11/05/2021 15:02:49	Creating edge constraints
+11/05/2021 15:02:49	Gathering synonyms
+11/05/2021 15:02:49	Gathering defaults
+11/05/2021 15:02:49	Gathering data constraint uddt bindings
+11/05/2021 15:02:49	Gathering rules
+11/05/2021 15:02:49	Gathering data constraint uddt bindings
+11/05/2021 15:02:49	Gathering message types
+11/05/2021 15:02:49	Gathering queues
+11/05/2021 15:02:49	Gathering contracts
+11/05/2021 15:02:49	Gathering services
+11/05/2021 15:02:49	Gathering event notifications
+11/05/2021 15:02:49	Gathering remote service bindings
+11/05/2021 15:02:49	Gathering broker priorities
+11/05/2021 15:02:49	Gathering signatures
+11/05/2021 15:02:49	Gathering data compression options
+11/05/2021 15:02:49	Gathering sequence types
+11/05/2021 15:02:49	Gathering security policies
+11/05/2021 15:02:49	Gather column encryption keys
+11/05/2021 15:02:49	Gathering column master keys
+11/05/2021 15:02:49	Gathering external data sources
+11/05/2021 15:02:49	Gathering external file formats
+11/05/2021 15:02:49	Gathering external tables
+11/05/2021 15:02:49	Gathering extended properties
+11/05/2021 15:02:49	Gathering credentials
+11/05/2021 15:02:49	Gathering logins
+11/05/2021 15:02:49	Gathering server audits
+11/05/2021 15:02:49	Scanning project for duplicate elements
+11/05/2021 15:02:49	Finished duplicate element processing
+11/05/2021 15:02:49	Finished importing database.
+11/05/2021 15:02:49	A summary of the import was saved to the following location: C:\ald\Musicalog.Api\Database\Import Schema Logs\Database_20210511020244.log
+11/05/2021 15:02:49	Click Finish to continue...
